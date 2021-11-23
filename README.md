@@ -16,5 +16,6 @@ Installez les modules
 npm install
 ```
   
-Vous êtes prêts à démarrer votre API sur MongoDB!  
+Vous êtes prêts à démarrer votre API.  
+Les données sont stockées sur **MongoDB!**  
 
